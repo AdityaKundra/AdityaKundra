@@ -10,7 +10,7 @@
 
 🚀 I’m a developer who loves solving real-world problems with code and designing scalable software systems.
 
-🎓 Currently pursuing **MCA** from Chandigarh University  
+🎓 **MCA** from Chandigarh University (June 2025)
 💼 Previously worked as a **Software Engineer** at Bonami Software & PS Tech Global  
 🛠️ Tech Stack: JavaScript, React, Node.js, MongoDB, Docker, AWS, PHP, Firebase
 
