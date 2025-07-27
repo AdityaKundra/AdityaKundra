@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Aditya Kundra
 
-**Full-Stack Developer | MERN Stack Specialist | Backend & Cloud Enthusiast**
+**Full-Stack Developer | MERN Stack Specialist | Backend**
 
 [![LinkedIn](https://img.shields.io/badge/-Connect-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adi-kundra/)](https://www.linkedin.com/in/adi-kundra/)
 [![Gmail](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityadef@gmail.com)
