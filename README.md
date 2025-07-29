@@ -20,8 +20,6 @@
 
 | Project | Description | Stack | Repo |
 |--------|-------------|-------|------|
-<!-- | 🏫 **[School Management System](https://github.com/AdityaKundra/School)** | A MERN-based system to manage students, attendance, fees, and documents for schools. | React, Node, MongoDB | [`/School`](https://github.com/AdityaKundra/School) |
-| 🏏 **[Cricket Scoring App](https://github.com/AdityaKundra/Scoring_App)** | A full-stack cricket score tracking app with match setup, player stats, and scoreboard views. | MERN Stack, Tailwind | [`/Scoring_App`](https://github.com/AdityaKundra/Scoring_App) |-->
 | 📘 **[DSA Practice Tracker](https://github.com/AdityaKundra/DSA-Pratice)** | A simple personal DSA repository with structured problem solving. | JavaScript | [`/DSA-Pratice`](https://github.com/AdityaKundra/DSA-Pratice) |
 | 📚 **[Free Algorithm Books](https://github.com/AdityaKundra/Free-Algorithms-Books)** | Curated collection of free eBooks and resources for algorithms & data structures. | Markdown, GitHub | [`/Free-Algorithms-Books`](https://github.com/AdityaKundra/Free-Algorithms-Books) |
 
