@@ -20,7 +20,7 @@
 
 | Project | Description | Stack | Repo |
 |--------|-------------|-------|------|
-| 📘 **[DSA Practice Tracker](https://github.com/AdityaKundra/DSA-Pratice)** | A simple personal DSA repository with structured problem solving. | JavaScript | [`/DSA-Pratice`](https://github.com/AdityaKundra/DSA-Pratice) |
+| 📘 **[DSA Practice Tracker](https://github.com/AdityaKundra/DSA-Pratice)** | A simple personal DSA repository with structured problem solving. | C++ | [`/DSA-Pratice`](https://github.com/AdityaKundra/DSA-Pratice) |
 | 📚 **[Free Algorithm Books](https://github.com/AdityaKundra/Free-Algorithms-Books)** | Curated collection of free eBooks and resources for algorithms & data structures. | Markdown, GitHub | [`/Free-Algorithms-Books`](https://github.com/AdityaKundra/Free-Algorithms-Books) |
 
 > 💡 _All of these projects are independently built, maintained, and evolving._
