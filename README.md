@@ -22,8 +22,8 @@
 |--------|-------------|-------|------|
 | 📘 **[DSA Practice Tracker](https://github.com/AdityaKundra/DSA-Pratice)** | A simple personal DSA repository with structured problem solving. | C++ | [`/DSA-Pratice`](https://github.com/AdityaKundra/DSA-Pratice) |
 | 📚 **[Free Algorithm Books](https://github.com/AdityaKundra/Free-Algorithms-Books)** | Curated collection of free eBooks and resources for algorithms & data structures. | Markdown, GitHub | [`/Free-Algorithms-Books`](https://github.com/AdityaKundra/Free-Algorithms-Books) |
-| 📘 **[Mini App Feed](https://github.com/AdityaKundra/Mini-Feed-App)** | A simple Mini-Feed-App POC React-Native. | Native | Express | Mongodb | [`/Mini-Feed-App`](https://github.com/AdityaKundra/Mini-Feed-App) |
-| 📘 **[ISBN Scanner](https://github.com/AdityaKundra/ISBN-Scanner)** | ISBN Scanner Scanns Book Barcode and get info. | React| Node | [`/ISBN-Scanner`](https://github.com/AdityaKundra/ISBN-Scanner) |
+| 📘 **[Mini App Feed](https://github.com/AdityaKundra/Mini-Feed-App)** | A simple Mini-Feed-App POC React-Native. | Native - Express - Mongodb | [`/Mini-Feed-App`](https://github.com/AdityaKundra/Mini-Feed-App) |
+| 📘 **[ISBN Scanner](https://github.com/AdityaKundra/ISBN-Scanner)** | ISBN Scanner Scanns Book Barcode and get info. | React - Node | [`/ISBN-Scanner`](https://github.com/AdityaKundra/ISBN-Scanner) |
 
 
 > 💡 _All of these projects are independently built, maintained, and evolving._
