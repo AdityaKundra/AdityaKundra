@@ -15,7 +15,7 @@ I learn by building. The work below is a mix of production-style apps and protot
 
 | Role | Place | When |
 | --- | --- | --- |
-| Full Stack Engineer | AVH Commerce (Vanavya) | Sep 2025 – May 2026 |
+| Software Engineer | AVH Commerce  | Sep 2025 – Currently Working |
 | Software Engineer | Bonami Software | May 2021 – Aug 2023 |
 | Back-End Developer | PS Tech Global | Aug 2020 – July 2021 |
 
