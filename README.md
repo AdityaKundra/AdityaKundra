@@ -40,7 +40,7 @@ On the [portfolio](https://portfolio-tau-bice-23.vercel.app) I also walk through
 | [ISBN Scanner](https://github.com/AdityaKundra/ISBN-Scanner) | Barcode scan that looks up book metadata. React and Node. |
 | [LimeTray assignment](https://github.com/AdityaKundra/limetray_Assignment) | Drag-and-drop UI in React, Vite, and Tailwind. |
 | [CLI Resume Builder](https://github.com/AdityaKundra/CLI-ResumeBuilder) | Small command-line resume experiment. |
-| [NestJS](https://github.com/AdityaKundra/NestJs) | Notes and code while learning NestJS. |
+| [NestJS](https://github.com/AdityaKundra/NestJs) | Placeholder for NestJS learning. No application in the repo yet. |
 | [DSA Practice](https://github.com/AdityaKundra/DSA-Pratice) | Data structures and algorithms, mostly C++. |
 
 ---
