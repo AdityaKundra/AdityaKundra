@@ -1,86 +1,82 @@
-# Hey there, I'm Aditya Kundra
+# Aditya Kundra
 
-**Full-stack developer** — I like turning messy real-world problems into clear systems, solid APIs, and usable products.
+Full-stack developer in Delhi. I turn a fuzzy product idea into something you can click, ship, and maintain: a clear API, a UI that stays out of the way, and code the next person can still read.
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adi-kundra/)
-[![Gmail](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityadef@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdityaKundra)
+[Portfolio](https://portfolio-tau-bice-23.vercel.app) · [LinkedIn](https://www.linkedin.com/in/adi-kundra/) · [Resume](https://drive.google.com/file/d/1Y5SerpDnMvF0BpDn11yJozSNHiyTx1m-/view?usp=sharing) · [LeetCode](https://leetcode.com/u/PracticeAdi/) · [Email](mailto:adityadef@gmail.com)
 
 ---
 
-I care about **maintainable backends**, **thoughtful frontends**, and shipping things people can actually run.
+I learn by building. The work below is a mix of production-style apps and prototypes I can still explain: a desktop-style portfolio, an AI resume studio, voice-agent experiments, and a React Native feed with its own backend.
 
-- **MCA**, Chandigarh University (June 2025)  
-- **Software Engineer** — Bonami Software, PS Tech Global  
+- **MCA**, Chandigarh University (2023–2025)
+- **BCA**, Subharti University (2019–2022)
 
-**Stack I work with most:** JavaScript / TypeScript, React, React Native, Node.js, MongoDB, Docker, AWS, Firebase, PHP  
+### Experience
 
----
+| Role | Place | When |
+| --- | --- | --- |
+| Full Stack Engineer | AVH Commerce (Vanavya) | Sep 2025 – May 2026 |
+| Software Engineer | Bonami Software | May 2021 – Aug 2023 |
+| Back-End Developer | PS Tech Global | Aug 2020 – July 2021 |
 
-## Featured projects
-
-| Project | What it is | Stack | Repo |
-|--------|------------|-------|------|
-| **Resume Studio (AI resume app)** | End-to-end resume product direction — polish the README and add a demo link when ready. | TypeScript | [`Resume-Studio-AI-resume-app-`](https://github.com/AdityaKundra/Resume-Studio-AI-resume-app-) |
-| **Voice prototypes (two stacks)** | Voice / prototype work — good anchor if you’re positioning around agents or realtime audio. | JavaScript | [`Voice-prototypes-two-stacks-`](https://github.com/AdityaKundra/Voice-prototypes-two-stacks-) |
-| **Mini Feed App** | POC focused on **backend + mobile** fundamentals (feed-style app). | React Native, Express, MongoDB | [`Mini-Feed-App`](https://github.com/AdityaKundra/Mini-Feed-App) |
-| **ISBN Scanner** | Scan a book barcode and fetch book metadata. | React, Node | [`ISBN-Scanner`](https://github.com/AdityaKundra/ISBN-Scanner) |
-| **Portfolio** | Personal site / portfolio codebase. | JavaScript | [`Portfolio`](https://github.com/AdityaKundra/Portfolio) |
-
-<!-- Optional: add live demo URLs as markdown links in the “What it is” column when you have them. -->
+On the [portfolio](https://portfolio-tau-bice-23.vercel.app) I also walk through product work for **LEAD School** (students app, web app, and a Drupal CMS) and **Redefine**.
 
 ---
 
-## More on GitHub
+## Featured
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [**Portfolio**](https://github.com/AdityaKundra/Portfolio) | A macOS-style desktop in the browser: dock, draggable windows, Spotlight, Finder, and a terminal. [Live site](https://portfolio-tau-bice-23.vercel.app). | React, Vite, Tailwind |
+| [**Resume Studio**](https://github.com/AdityaKundra/Resume-Studio-AI-resume-app-) | Tailors a resume to a job description with a local or cloud model, scores it for ATS, and exports a PDF. | Next.js, TypeScript, Ollama / OpenAI / Gemini |
+| [**Voice assistant lab**](https://github.com/AdityaKundra/Voice-prototypes-two-stacks-) | Two realtime voice stacks: a local LiveKit + Whisper + Ollama pipeline, and a LiveKit Agents worker with AssemblyAI and Sarvam. | Node.js, Python, LiveKit |
+| [**Mini Feed**](https://github.com/AdityaKundra/Mini-Feed-App) | A social feed with auth, posts, likes, and comments. Mobile client and its own API. | React Native, Express, MongoDB |
+
+## Also on GitHub
 
 | Repo | Notes |
-|------|--------|
-| [**Voice Agent**](https://github.com/AdityaKundra/Voice-Agent) | Voice / agent experiments — link the best “entry point” doc from your main README when it’s ready. |
-| [**NestJS learning**](https://github.com/AdityaKundra/NestJs) | Structured notes / code while learning NestJS. |
-| [**DSA practice**](https://github.com/AdityaKundra/DSA-Pratice) | Personal problem-solving repo (C++). |
-| [**Free Algorithms Books**](https://github.com/AdityaKundra/Free-Algorithms-Books) | Forked list of free algorithm books — handy reference, not original app code. |
+| --- | --- |
+| [Multiuser ToDo](https://github.com/AdityaKundra/Multiuser-ToDo-MERN) | Shared todo app with JWT auth. MERN. |
+| [ISBN Scanner](https://github.com/AdityaKundra/ISBN-Scanner) | Barcode scan that looks up book metadata. React and Node. |
+| [LimeTray assignment](https://github.com/AdityaKundra/limetray_Assignment) | Drag-and-drop UI in React, Vite, and Tailwind. |
+| [CLI Resume Builder](https://github.com/AdityaKundra/CLI-ResumeBuilder) | Small command-line resume experiment. |
+| [NestJS](https://github.com/AdityaKundra/NestJs) | Notes and code while learning NestJS. |
+| [DSA Practice](https://github.com/AdityaKundra/DSA-Pratice) | Data structures and algorithms, mostly C++. |
 
 ---
 
-## GitHub highlights
+## Stack
 
-<!--
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaKundra&show_icons=true&theme=radical&border_radius=12)
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=AdityaKundra&theme=tokyonight)
--->
+**Languages** — JavaScript, TypeScript, PHP, C++
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaKundra&layout=compact&theme=radical)
+**Frontend** — React, Next.js, React Native, Tailwind, Redux
 
----
+**Backend** — Node.js, Express, NestJS, REST, WebSockets
 
-## Technologies & tools
+**Data** — MongoDB, PostgreSQL, MySQL
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws)
-![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
-![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
+**Tools** — Docker, AWS, Firebase, GitHub Actions, Vercel
+
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-111111?style=flat-square&logo=amazonaws&logoColor=white)
 
 ---
 
-## Let's connect
+## GitHub
 
-- **Email:** [adityadef@gmail.com](mailto:adityadef@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/adi-kundra](https://www.linkedin.com/in/adi-kundra)  
-- **GitHub:** [github.com/AdityaKundra](https://github.com/AdityaKundra)
-
----
-
-## Fun fact
-
-I learn fastest by shipping: small vertical slices, real constraints, then refactor once the idea proves itself.
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AdityaKundra&show_icons=true&hide_border=true&bg_color=ffffff&title_color=111111&icon_color=111111&text_color=333333&rank_icon=github" alt="Aditya Kundra GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaKundra&layout=compact&hide_border=true&bg_color=ffffff&title_color=111111&text_color=333333" alt="Top languages" />
+</p>
 
 ---
 
-Thanks for stopping by — star a repo if it saves you time.
+Open to full-stack roles and interesting product work.
+
+**Email** [adityadef@gmail.com](mailto:adityadef@gmail.com) · **LinkedIn** [adi-kundra](https://www.linkedin.com/in/adi-kundra/) · **GitHub** [AdityaKundra](https://github.com/AdityaKundra)
